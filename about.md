@@ -8,7 +8,7 @@ Amaresh Pattanaik is an experience software developer. Visit Amaresh' homepage a
 
 Find various tools and libraries developed by Amaresh:
 {% include icon-github.html username="amareshp" %} /
-[amaresh' GitHub](https://github.com/amareshp)
+[lensdev GitHub](https://github.com/lensdev)
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
